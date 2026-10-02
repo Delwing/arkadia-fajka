@@ -1,0 +1,7 @@
+{
+  "name": "Podpowiedzi emotek fajki",
+  "version": "1.0.0",
+  "author": "Dargoth",
+  "description": "Podpowiedzi (Tab) dla emotek fajki.",
+  "entryPoint": "plugin.ts"
+}
